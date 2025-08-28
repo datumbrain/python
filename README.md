@@ -41,13 +41,14 @@ This template provides a standardized setup for Python projects including:
    ```
 
 5. Activate the virtual environment:
+
    ```bash
    poetry shell
    ```
 
 ## 📁 Project Structure
 
-```
+```raw
 .
 ├── src/                    # Source code directory
 │   └── your_package_name/  # Your main package
@@ -367,4 +368,5 @@ When contributing to projects using this template:
 This template is available for all DatumBrain projects. For specific project licenses, check the individual repository.
 
 **Maintained by**: Engineering Team / Datum Brain
+
 **Last updated**: 2025-08-28 16:30:05
