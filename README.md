@@ -366,7 +366,5 @@ When contributing to projects using this template:
 
 This template is available for all DatumBrain projects. For specific project licenses, check the individual repository.
 
----
-
-**Maintained by**: DatumBrain Engineering Team  
-**Last Updated**: 2024
+**Maintained by**: Engineering Team / Datum Brain
+**Last updated**: 2025-08-28 16:30:05
