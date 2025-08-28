@@ -1,4 +1,4 @@
-# DatumBrain Python Project Standards
+# Python Project Standards / Datum Brain
 
 This repository contains the company-wide standard configuration files and project structure for Python projects at DatumBrain. These standards ensure consistency, maintainability, and quality across all Python projects.
 
