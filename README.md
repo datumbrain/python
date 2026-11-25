@@ -1,6 +1,6 @@
 # Python Project Standards / Datum Brain
 
-This repository contains the company-wide standard configuration files and project structure for Python projects at DatumBrain. These standards ensure consistency, maintainability, and quality across all Python projects.
+This repository contains the company-wide standard configuration files and project structure for Python projects at Datum Brain. These standards ensure consistency, maintainability, and quality across all Python projects.
 
 ## 📋 Overview
 
@@ -365,7 +365,7 @@ When contributing to projects using this template:
 
 ## 📄 License
 
-This template is available for all DatumBrain projects. For specific project licenses, check the individual repository.
+This template is available for all Datum Brain projects. For specific project licenses, check the individual repository.
 
 **Maintained by**: Engineering Team / Datum Brain
 
